@@ -8,7 +8,7 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-baseurl: /gitDemo
+
 title : Jekyll Bootstrap
 tagline: Site Tagline
 author :
@@ -26,7 +26,8 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://username.github.io
+production_url : http://llqintel.github.io
+baseurl: /gitDemo
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
